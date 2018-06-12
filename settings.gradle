@@ -1,0 +1,6 @@
+rootProject.name = 'stockwatcher'
+include 'backend'
+include 'backend:component'
+include 'backend:api'
+rootProject.buildFileName = 'build.gradle.kts'
+

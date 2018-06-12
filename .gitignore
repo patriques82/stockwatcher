@@ -1,0 +1,31 @@
+# Compiled source #
+###################
+*.class
+
+# Packages #
+############
+*.jar
+
+# Logs and databases #
+######################
+*.log
+
+# OS generated files #
+######################
+.DS_Store*
+
+# Gradle Files #
+################
+.gradle
+!/gradle/wrapper/gradle-wrapper.jar
+
+# Build output directies
+build/
+*/build
+
+# IntelliJ specific files/directories
+.idea
+*.iml
+out/
+*/out
+
